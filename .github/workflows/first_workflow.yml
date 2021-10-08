@@ -23,9 +23,9 @@ jobs:
         name: MacOS 
         runs-on: macos-latest
         steps:
-            -run: date 
+            - run: date 
     depends:
         needs: [job1, job2, macos]
         runs-on: macos-latest
         steps: 
-            -run: date
+            - run: date
