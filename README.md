@@ -2,4 +2,4 @@
 
 Github CheatSheet for Reference 
 
-[here](/actions-cheat-sheet.pdf)
+[GitHub Action CheatSheet](/actions-cheat-sheet.pdf)
